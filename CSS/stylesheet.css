@@ -1,0 +1,20 @@
+/*navbar */
+.nav {
+    height: 50px;
+    color: white;
+    background-color: black;
+}
+
+/*left column, right column*/
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 100vh;
+}
+
+/*Footer*/
+h1 {
+    color: aliceblue;
+    background-color: blue;
+}
